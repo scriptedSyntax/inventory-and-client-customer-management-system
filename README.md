@@ -102,6 +102,13 @@ It should load the homepage or redirect to login.
 
 ---
 
+## 📞 Interested in Using This System? Fully Customised and developed further to your needs?
+
+If you'd like to get this system set up for your business or need help with customization or deployment, feel free to reach out.
+📧 **Email Samuel:** [samuelmwas262@gmail.com](mailto:samuelmwas262@gmail.com)
+
+---
+
 ## 💡 Troubleshooting
 
 - ❌ **Apache won’t start?**  
@@ -143,6 +150,5 @@ ini_set('display_errors', 1);
 This project was created by **Samuel Mwangi** to support local businesses in managing equipment rentals more efficiently.  
 You're welcome to **use**, **customize**, and **extend** it to suit your needs.  
 If you’d like to share improvements, feel free to **submit a pull request to the `main` branch** — contributions are always appreciated!
-
 
 **Happy coding!** 💻✨
